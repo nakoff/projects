@@ -4,7 +4,7 @@ https://nakoff.github.io/projects/
 <table style="border-collapse: collapse; width: 100.429%; height: 446px;" border="1">
 <tbody>
 <tr style="height: 320px;">
-<td style="width: 25%; height: 320px;"><img src="https://github.com/nakoff/3dRpg/blob/main/MVP_entity.svg" alt="" width="512" height="300" /></td>
+<td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/3dRpg/aec95d6e7eee48135f89d193e396093678482af2/MVP_entity.svg" alt="" width="512" height="300" /></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
 <h2>Прототип 3D игры на движке Unity с использованием паттерна MVP</h2>
