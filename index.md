@@ -5,14 +5,14 @@ https://nakoff.github.io/projects/
 <tbody>
 
 <tr style="height: 320px;">
-<td style="width: 25%; height: 320px;"><img src="https://github.com/nakoff/XO_Game/blob/main/xo_game.png" alt="" width="512" height="300" /></td>
+<td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/XO_Game/main/xo_game.png" alt="" width="512" height="300" /></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
 <h2>"Крестики-нолики" Lua (Love2D)</h2>
 <p> Режимы игры:</p>
-<li> Player vs Player</li>
-<li> Player vs CPU</li>
-<li> CPU vs CPU</li>
+ <li> Player vs Player</li>
+ <li> Player vs CPU</li>
+ <li> CPU vs CPU</li>
 <p><a href="https://github.com/nakoff/XO_Game">https://github.com/nakoff/XO_Game</a></p>
 </td>
 </tr>
