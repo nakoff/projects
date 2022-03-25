@@ -28,7 +28,7 @@ https://nakoff.github.io/projects/
 </tr>
  
 <tr style="height: 320px;">
-<td style="width: 25%; height: 320px;"><iframe src="//www.youtube.com/watch?v=X5t7Hu6J3IM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
+<td style="width: 25%; height: 320px;"><iframe src="//www.youtube.com/embed/X5t7Hu6J3IM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
 <h2>Психоделический платформер (Unity)</h2>
