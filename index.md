@@ -9,7 +9,10 @@ https://nakoff.github.io/projects/
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
 <h2>"Крестики-нолики" Lua (Love2D)</h2>
-<p>(в разработке)</p>
+<p>Режимы игры:</p>
+<li>Player vs Player</li>
+<li>Player vs CPU</li>
+<li>CPU vs CPU</li>
 <p><a href="https://github.com/nakoff/XO_Game">https://github.com/nakoff/XO_Game</a></p>
 </td>
 </tr>
