@@ -8,7 +8,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/XO_Game/main/xo_game.png" alt="" width="512" height="300" /></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
-<h2>"Крестики-нолики" Lua (Love2D)</h2>
+<h2>"Крестики-нолики" Lua (Тестовое задание) </h2>
 <p> Режимы игры:</p>
  <li> Player vs Player</li>
  <li> Player vs CPU</li>
@@ -26,6 +26,16 @@ https://nakoff.github.io/projects/
 <p><a href="https://github.com/nakoff/3dRpg">https://github.com/nakoff/3dRpg</a></p>
 </td>
 </tr>
+ 
+<tr style="height: 320px;">
+<td style="width: 25%; height: 320px;"><iframe src="/www.youtube.com/watch?v=X5t7Hu6J3IM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 50%; height: 320px; text-align: center;">
+<h2>Психоделический платформер (Unity)</h2>
+<p>(2021г)</p>
+</td>
+</tr>
+ 
 <tr style="height: 320px;">
 <td style="width: 25%; height: 320px;"><iframe src="//www.youtube.com/embed/Hkf038_REAk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
