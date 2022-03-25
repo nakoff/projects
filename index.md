@@ -3,6 +3,17 @@ https://nakoff.github.io/projects/
 <br>
 <table style="border-collapse: collapse; width: 100.429%; height: 446px;" border="1">
 <tbody>
+
+<tr style="height: 320px;">
+<td style="width: 25%; height: 320px;"><img src="https://github.com/nakoff/XO_Game/blob/main/xo_game.png" alt="" width="512" height="300" /></td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 50%; height: 320px; text-align: center;">
+<h2>"Крестики-нолики" Lua (Love2D)</h2>
+<p>(в разработке)</p>
+<p><a href="https://github.com/nakoff/XO_Game">https://github.com/nakoff/XO_Game</a></p>
+</td>
+</tr>
+  
 <tr style="height: 320px;">
 <td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/3dRpg/aec95d6e7eee48135f89d193e396093678482af2/MVP_entity.svg" alt="" width="512" height="300" /></td>
 <td style="width: 25%;">&nbsp;</td>
