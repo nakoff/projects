@@ -1,9 +1,7 @@
 <h1>Личные проекты</h1>
 https://nakoff.github.io/projects/
 <br>
-<body>
-    <div id="thegame"></div>
-</body>
+<div id="thegame"></div>
 
 <table style="border-collapse: collapse; width: 100.429%; height: 446px;" border="1">
 <tbody>
