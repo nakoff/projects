@@ -6,11 +6,21 @@ https://nakoff.github.io/projects/
 <table style="border-collapse: collapse; width: 100.429%; height: 446px;" border="1">
 <tbody>
 
+ <tr style="height: 560px;">
+<td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/Merge3_Test/main/screen.png" alt="" width="374" height="460" /></td>
+<td style="width: 25%;">&nbsp;</td>
+<td style="width: 50%; height: 320px; text-align: center;">
+<h2>Небольшое дэмо на Pixi.js (Typescript, webpack, DragonBones animation)</h2>
+<p><a href="https://nakoff.github.io/bunny/">Играть https://nakoff.github.io/bunny/</a></p>
+<p><a href="https://github.com/nakoff/Merge3_Test">Сорцы https://github.com/nakoff/Pixi_Test</a></p>
+</td>
+</tr>
+ 
 <tr style="height: 560px;">
 <td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/Merge3_Test/main/screen.png" alt="" width="512" height="552" /></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
-<h2>Игра жанра "Merge3". Typescript, Phaser, Webpack (Тестовое задание) </h2>
+<h2>Игра жанра "Merge3" (Typescript, Phaser, Webpack)</h2>
 <p><a href="https://nakoff.github.io/">Играть https://nakoff.github.io/</a></p>
 <p><a href="https://github.com/nakoff/Merge3_Test">Сорцы https://github.com/nakoff/Merge3_Test</a></p>
 </td>
@@ -20,7 +30,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/XO_Game/main/xo_game.png" alt="" width="512" height="300" /></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
-<h2>"Крестики-нолики" Lua (Тестовое задание) </h2>
+<h2>"Крестики-нолики" (Lua, Love2D) </h2>
 <p> Режимы игры:</p>
  <li> Player vs Player</li>
  <li> Player vs CPU</li>
