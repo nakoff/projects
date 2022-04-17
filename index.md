@@ -17,7 +17,7 @@ https://nakoff.github.io/projects/
 </tr>
  
 <tr style="height: 560px;">
-<td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/Merge3_Test/main/screen.png" alt="" width="374" height="403" /></td>
+<td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/Merge3_Test/main/screen.png" alt="" width="256" height="237" /></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
 <h2>Игра жанра "Merge3" (Typescript, Phaser, Webpack)</h2>
