@@ -6,7 +6,7 @@ https://nakoff.github.io/projects/
 <table style="border-collapse: collapse; width: 100.429%; height: 446px;" border="1">
 <tbody>
 
- <tr style="height: 560px;">
+<tr style="height: 260px;">
 <td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/Pixi_Test/main/screen.png" alt="" width="208" height="256" /></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
@@ -16,7 +16,7 @@ https://nakoff.github.io/projects/
 </td>
 </tr>
  
-<tr style="height: 560px;">
+<tr style="height: 260px;">
 <td style="width: 25%; height: 320px;"><img src="https://raw.githubusercontent.com/nakoff/Merge3_Test/main/screen.png" alt="" width="237" height="256" /></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
