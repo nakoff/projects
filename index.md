@@ -21,7 +21,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
 <h2>Игра жанра "Merge3" (Typescript, Phaser, Webpack)</h2>
-<p><a href="https://nakoff.github.io/">Играть https://nakoff.github.io/</a></p>
+<p><a href="https://nakoff.github.io/">Играть https://nakoff.github.io/merge3/</a></p>
 <p><a href="https://github.com/nakoff/Merge3_Test">Сорцы https://github.com/nakoff/Merge3_Test</a></p>
 </td>
 </tr>
