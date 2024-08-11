@@ -7,7 +7,7 @@ https://nakoff.github.io/projects/
 <tbody>
   
 <tr style="height: 320px;">
-<td style="width: 25%; height: 320px;"><iframe src="https://youtu.be/2k795JCqVUQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
+<td style="width: 25%; height: 320px;"><iframe src="https://www.youtube.com/embed/2k795JCqVUQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
 <h2>Логическая игра (Unity)</h2>
