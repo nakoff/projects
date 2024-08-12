@@ -71,7 +71,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%; height: 320px;"><iframe src="//www.youtube.com/embed/Hkf038_REAk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 320px; text-align: center;">
-<h2>Пошаговый шутер с элементами TD</h2>
+<h2>Пошаговый шутер с элементами TD (Godot)</h2>
 <p>(2020г)</p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%; height: 18px;"><iframe src="//www.youtube.com/embed/sWSMjbDG2oE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 18px; text-align: center;">
-<h2>Мобильный экшн. Hyper Casual</h2>
+<h2>Мобильный экшн. Hyper Casual (Godot)</h2>
 <p>(2020г)</p>
 </td>
 </tr>
@@ -87,7 +87,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%; height: 18px;"><iframe src="//www.youtube.com/embed/kAloYgXVX64" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 18px; text-align: center;">
-<h2>Мобильный экшн. Hyper Casual</h2>
+<h2>Мобильный экшн. Hyper Casual (Godot)</h2>
 <p>(2020г)</p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%; height: 18px;"><iframe src="//www.youtube.com/embed/K03qMrMf2mA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 18px; text-align: center;">
-<h2>Игра, сделанная за 48 часов в рамках конкурса.</h2>
+<h2>Игра, сделанная за 48 часов в рамках конкурса. (Godot)</h2>
 <p>(2019г)</p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%; height: 18px;"><iframe src="//www.youtube.com/embed/ToBYfHweJ2E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 18px; text-align: center;">
-<h2>Прототип PVP клиент-серверной (NodeJS) игры.</h2>
+<h2>Прототип PVP клиент-серверной (NodeJS) игры. (Godot)</h2>
 <p>(2018г)</p>
 </td>
 </tr>
@@ -111,7 +111,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%; height: 18px;"><iframe src="//www.youtube.com/embed/mSKEfPYqoWY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 18px; text-align: center;">
-<h2>Вариация Match3 игры, сделанная в рамках конкурса на gamedev.ru</h2>
+<h2>Вариация Match3 игры, сделанная в рамках конкурса на gamedev.ru (Godot)</h2>
 <p>(2017г)</p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%; height: 18px;"><iframe src="//www.youtube.com/embed/vOrpkTKV1K8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 18px; text-align: center;">
-<h2>Еще одна конкурсная игра в жанре Tower Defense.</h2>
+<h2>Еще одна конкурсная игра в жанре Tower Defense. (Maratis3D)</h2>
 <p>(2014г)</p>
 <p><a href="https://github.com/nakoff/UnG">https://github.com/nakoff/UnG</a></p>
 </td>
@@ -137,7 +137,7 @@ https://nakoff.github.io/projects/
 <td style="width: 25%; height: 18px;"><iframe src="//www.youtube.com/embed/D-r8lV6nClQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td style="width: 25%;">&nbsp;</td>
 <td style="width: 50%; height: 18px;">
-<h2 style="text-align: center;">Одна из первых игр.</h2>
+<h2 style="text-align: center;">Одна из первых игр. (Blitz3D)</h2>
 <p style="text-align: center;">(2013г)</p>
 <p style="text-align: center;"><a href="https://github.com/nakoff/IWYB">https://github.com/nakoff/IWYB</a></p>
 </td>
